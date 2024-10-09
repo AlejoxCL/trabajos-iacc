@@ -1,0 +1,33 @@
+/* Estilos para la cabecera */
+header {
+    background-color: #4CAF50; /* Color de fondo verde */
+    color: white;
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  /* Estilos para el contenido principal */
+  main {
+    background-color: #f4f4f4; /* Color de fondo gris claro */
+    padding: 30px;
+    margin: 20px;
+    border: 1px solid #ccc; /* Borde gris */
+  }
+  /* Estilos para el pie de página */
+  footer {
+    background-color: #333; /* Color de fondo oscuro */
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+  }
+  .container {
+    margin: auto;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 3px solid #dbe4ed;
+
+  }
+  
